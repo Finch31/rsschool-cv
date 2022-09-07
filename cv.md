@@ -2,7 +2,7 @@
 ![photo](https://bipbap.ru/wp-content/uploads/2017/05/0_56c77_96dd7e90_L.jpg)
 ------
 # Contacts
-* Phone:+375-29-275-76-95
+* Phone:+375-29-275-76-95 (MTS)
 * E-mail: jenya87@inbox.ru
 * GitHub: Finch31
 # About me:
