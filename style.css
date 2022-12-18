@@ -11,7 +11,7 @@ body {
     display: flex;
     flex-direction: column;
     justify-content: space-between;
-    color: darkcyan;
+    color: rgb(55, 134, 134);
     font-family: 'Playfair Display', serif;
 }
 div {
@@ -20,14 +20,16 @@ div {
 
   .header {
     width:100%;
-    background: rgb(149, 219, 82);
-    border: 1px solid red;
+    background: hsl(134, 29%, 62%);
+    
   }
   .main {
-    border: 1px solid rgb(9, 255, 0);
+    width:100%; 
+    background: hsl(134, 77%, 86%)
   }
   .footer {
-    border: 1px solid rgb(89, 0, 255);
+    width:100%;
+    background: hsl(134, 29%, 62%);
   }
   .container {
     max-width: 1440px;
@@ -68,6 +70,20 @@ div {
        width: 300px;
     height: 300px;
     object-fit: cover;
+    align-items: center;
     border-radius: 25% 10%;
        transition: .3s;
   }
+ 
+  .footer-container {
+    display: flex;
+    flex-wrap: nowrap;
+    justify-content: space-between;
+    align-items: flex-end;
+    }
+.section-logo-img {
+  width: 220px;
+height: 80px;
+object-fit: cover;
+  transition: .3s;
+}
